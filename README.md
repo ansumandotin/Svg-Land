@@ -1,5 +1,4 @@
-Svg Land is a demo project which is made of the Scalable Vector Graphics by the designing tool Figma (https://www.figma.com/)
-This is a piece of design which tell you a story of a simple web-developer portfolio.
+Svg Land is a demo project which is made of Scalable Vector Graphics by the designing tool Figma (https://www.figma.com/) This is a piece of design that tell you a story of a simple web-developer portfolio.
 
 Thsi Design Templete is inspired by my own portfolio www.ansuman.in.
 
